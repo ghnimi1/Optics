@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c82ba70b9643b53899d35cdc798e719a",
+    "revision": "d3b04ad24fcc2338caeb8f0eea610b3e",
     "url": "/optics/index.html"
   },
   {
-    "revision": "b6639d28bef2894137d7",
+    "revision": "37b7ded6cff5f54e3605",
     "url": "/optics/static/css/main.6284bb36.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/optics/static/js/2.cb29d16c.chunk.js"
   },
   {
-    "revision": "b6639d28bef2894137d7",
-    "url": "/optics/static/js/main.f12a0193.chunk.js"
+    "revision": "37b7ded6cff5f54e3605",
+    "url": "/optics/static/js/main.1a92ab82.chunk.js"
   },
   {
     "revision": "dc2e78b2d49a7cb17bc2",
