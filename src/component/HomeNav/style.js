@@ -2,7 +2,7 @@ import styled from 'styled-components';
 export const HomeNavBar = styled.div`
 width : 100%;
 
-background: url('../images/Home/home-bg1.jpg');
+background: url('./images/Home/home-bg1.jpg');
 background-size: contain;
 overflow: hidden;
 `
