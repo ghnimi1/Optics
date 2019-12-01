@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/optics/static/css/main.6284bb36.chunk.css",
-    "main.js": "/optics/static/js/main.bb7dac72.chunk.js",
-    "main.js.map": "/optics/static/js/main.bb7dac72.chunk.js.map",
+    "main.js": "/optics/static/js/main.f12a0193.chunk.js",
+    "main.js.map": "/optics/static/js/main.f12a0193.chunk.js.map",
     "runtime-main.js": "/optics/static/js/runtime-main.b616ec4a.js",
     "runtime-main.js.map": "/optics/static/js/runtime-main.b616ec4a.js.map",
     "static/js/2.cb29d16c.chunk.js": "/optics/static/js/2.cb29d16c.chunk.js",
     "static/js/2.cb29d16c.chunk.js.map": "/optics/static/js/2.cb29d16c.chunk.js.map",
     "index.html": "/optics/index.html",
-    "precache-manifest.1c03d04d0ef930985bfb877848a48882.js": "/optics/precache-manifest.1c03d04d0ef930985bfb877848a48882.js",
+    "precache-manifest.971181f074df79cffd8e50e623d48d9d.js": "/optics/precache-manifest.971181f074df79cffd8e50e623d48d9d.js",
     "service-worker.js": "/optics/service-worker.js",
     "static/css/main.6284bb36.chunk.css.map": "/optics/static/css/main.6284bb36.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.b616ec4a.js",
     "static/js/2.cb29d16c.chunk.js",
     "static/css/main.6284bb36.chunk.css",
-    "static/js/main.bb7dac72.chunk.js"
+    "static/js/main.f12a0193.chunk.js"
   ]
 }
